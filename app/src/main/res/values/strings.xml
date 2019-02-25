@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PizzaApplication</string>
+    <string name="text_btn_formatOrder">Kies het formaat Pizza</string>
+    <string name="text_btn_toppingsOrder">Kies de toppings</string>
+    <string name="dialog_titel">Available Toppings</string>
+    <string name="ok_label">Ok</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="text_btn_order">ORDER</string>
+    <string-array name="shopping_item">
+        <item>Pepperoni</item>
+        <item>Sausage</item>
+        <item>Anchovies</item>
+        <item>Mushrooms</item>
+        <item>Onions</item>
+        <item>Peppers</item>
+        <item>Olives</item>
+        <item>Tomatoes</item>
+        <item>Pineapple</item>
+        <item>Extra Cheese</item>
+    </string-array>
+    <string-array name="shopping_format_item">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>
