@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">PizzaApplication</string>
-    <string name="text_btn_formatOrder">Kies het formaat Pizza</string>
-    <string name="text_btn_toppingsOrder">Kies de toppings</string>
+    <string name="app_name">Pizzeria Application</string>
+    <string name="text_btn_formatOrder">Choose format</string>
+    <string name="text_btn_toppingsOrder">Choose toppings</string>
     <string name="dialog_titel">Available Toppings</string>
     <string name="ok_label">Ok</string>
     <string name="dismiss_label">Dismiss</string>

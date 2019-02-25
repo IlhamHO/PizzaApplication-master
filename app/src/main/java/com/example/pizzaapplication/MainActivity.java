@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         myLayout = (CoordinatorLayout)findViewById(R.id.myLayout);
         btnOrder= (Button)findViewById(R.id.btn_order);
         btnFormatOrder = (Button)findViewById(R.id.btn_formatOrder);
